@@ -25,7 +25,7 @@ There are two main phases to natural language processing:
 It is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science. In just a few minutes you can build and deploy powerful data apps.
 
 **Installation:**
-pip3 install streamlit
+pip install streamlit
 
 **To run the file:**
 streamlit run filename.py
